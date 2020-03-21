@@ -1,8 +1,8 @@
 
 const school_1={
-    'class_one': 'one',
-    'class_two': 'two',
-    'class_ten' : 'five',
+    'class_on': 'one',
+    'class_t': 'two',
+    'class_11' : 'five',
     'objNewPro': {
         'one' : 10,
         'five' : 20,
